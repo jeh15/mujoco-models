@@ -1,0 +1,8 @@
+filegroup(
+    name = "unitree_h1_2",
+    srcs = glob([
+        "**",
+        "meshes/**",
+    ]),
+    visibility = ["//visibility:public"],
+)
