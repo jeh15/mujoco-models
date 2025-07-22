@@ -41,11 +41,11 @@
             <default class="h1_2/ankle">
                 <default class="h1_2/ankle/pitch">
                     <joint axis="0 1 0" range="-0.897334 0.523598" armature="0.01" frictionloss="0.8"/>
-                    <position forcerange="-60 60" kp="40"/>
+                    <position forcerange="-60 60" kp="120"/>
                 </default>
                 <default class="h1_2/ankle/roll">
                     <joint axis="1 0 0" range="-0.261799 0.261799" armature="0.01" frictionloss="0.7"/>
-                    <position forcerange="-40 40" kp="40"/>
+                    <position forcerange="-40 40" kp="60"/>
                 </default>
             </default>
             <default class="h1_2/shoulder">
